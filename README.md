@@ -5,5 +5,5 @@
 * Created Model to predict future values
 
 ## code and resources used
-** Python Version: ** 3.8
-** Packages: ** pandas, numpy, sklearn, matplotlib, seaborn 
+** Python Version: 3.8
+** Packages: pandas, numpy, sklearn, matplotlib, seaborn 
